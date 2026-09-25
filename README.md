@@ -1,6 +1,6 @@
-# Server Health Monitoring Dashboard
+# Server Insight Dashboard
 
-A full-stack application for real-time server health monitoring, built with **Java Spring Boot** and **React.js**.
+A full-stack application for real-time server monitoring and insight, built with **Java Spring Boot** and **React.js**.
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ A full-stack application for real-time server health monitoring, built with **Ja
 ## Project Structure
 
 ```
-server-health-monitor/
+server-insight/
 ├── backend/                 # Spring Boot REST API
 │   ├── src/main/java/com/monitor/
 │   │   ├── controller/      # REST endpoints

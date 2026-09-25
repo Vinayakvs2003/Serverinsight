@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Server Health Monitor</h1>
+        <h1>Server Insight</h1>
         <p>Real-time infrastructure monitoring dashboard</p>
       </header>
       <main className="app-main">
